@@ -1,0 +1,20 @@
+[
+    {
+        "city": "Hyderabad",
+        "temp": 22.23,
+        "humidity": 94,
+        "weather": "Moderate rain"
+    },
+    {
+        "city": "Warangal",
+        "temp": 23.09,
+        "humidity": 97,
+        "weather": "Heavy intensity rain"
+    },
+    {
+        "city": "Jangaon",
+        "temp": 22.5,
+        "humidity": 97,
+        "weather": "Heavy intensity rain"
+    }
+]
